@@ -1,0 +1,28 @@
+ 
+.c_prev {
+    left: 84%;
+    
+}
+.c_next {
+    bottom: 5% !important;
+}
+
+.c_prev, .c_next {
+    top: 72%;
+    width: 10%;
+   bottom: 25px;
+    
+}
+.carousel-indicators {
+  
+    bottom: 50%;
+    left: -90%;
+   
+    display: grid;
+    }
+
+.carousel-indicators li {
+   
+    width: 36px;
+    height: 21px;
+   }
